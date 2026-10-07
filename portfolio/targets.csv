@@ -1,0 +1,13 @@
+symbol,target_pct,sleeve,role
+VOO,29,Core,S&P 500 - the benchmark itself; never lag it on the core
+QQQM,10,Core,Nasdaq-100 - AI / growth trend
+MTUM,10,Core,Momentum factor - systematically owns what is trending
+ALLW,9,Defense,Bridgewater All Weather - bonds/commodities/gold balance
+BRK.B,9,Defense,Low-beta quality compounder with a large cash pile
+BBJP,4,Defense,Japan (EWJ merged in - same exposure, lower fee)
+JNJ,2.5,Defense,Defensive healthcare
+GLDM,3.5,Defense,Gold hedge (replaces miner B - cleaner hedge)
+XOM,6,Satellite,Energy - oil/yields uptrend; trimmed from ~12%
+SPCX,6,Satellite,SpaceX - trimmed from ~10% (new IPO, high volatility)
+MU,6,Satellite,Micron - AI memory; capped at 6%
+SGOV,5,Cash,T-bill ETF - dry powder + risk-off parking

@@ -1,0 +1,18 @@
+symbol,shares,price,price_note
+XOM,7.29,164.48,Oct 6 2026 close
+DUK,2.05,114.50,Oct 6 2026 intraday
+MP,1,60.36,Oct 2026 quote
+RKLB,1,73.02,Oct 6 2026
+JNJ,1.01,254.78,Oct 6 2026 close
+B,2.05,40.76,Oct 6 2026
+BRK.B,2,505.55,Oct 6 2026
+EWJ,1.21,85.00,estimate
+BBJP,1.27,72.00,estimate
+NOK,10,10.92,Oct 6 2026
+GIS,15.38,43.00,Oct 2026 quote (approx)
+SPCX,7,150.00,estimate (late Sep ~148-153)
+MU,0.600062,1065.26,Oct 2026 quote
+SQQQ,5,17.00,estimate (back-solved from account total)
+HOOD,1,93.93,Oct 2026 quote
+ALLW,31.16,31.00,estimate
+CASH,3643.89,1,Robinhood buying power
